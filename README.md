@@ -5,9 +5,9 @@ A collection of notebooks supported by video animations explaining different con
 01_data_block_pet_tutorial.ipynb: end-to-end image classification using single label. Use-case: Oxford-IIIT-Pet dataset
  
 ![](images/end-to-end-training-workflow-medium.png)
-![](images/dataBlock-oxford-pet-medium.png)
+![](images/01_data-block-pet-tutorial.png)
 
-[![](http://img.youtube.com/vi/yoSUhpETbp8/0.jpg)](http://www.youtube.com/watch?v=yoSUhpETbp8 "Image classification with a single label")
+[![](http://img.youtube.com/vi/G-xAIxcHWVg/0.jpg)](https://www.youtube.com/watch?v=G-xAIxcHWVg "Tutorial - Image Classification with a Single Label using Google Colab")
 
 
 
