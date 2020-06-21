@@ -1,10 +1,7 @@
-<div class="alert alert-info">
     
-**Note:**  
-
-If you find this work useful, please let other people know by staring it. Thank you!
+> **Note:**  
+> If you find this work useful, please let other people know by **staring** it. Thank you!
     
-</div>
 
 # fastai 2 Visual Guide
 
