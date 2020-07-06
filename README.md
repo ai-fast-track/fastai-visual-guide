@@ -1,6 +1,6 @@
     
 > **Note:**  
-> If you find this work useful, please let other people know by **staring** it. Thank you!
+> If you find this work useful, please let other people know by **starring** it. Thank you!
     
 
 # fastai 2 Visual Guide
